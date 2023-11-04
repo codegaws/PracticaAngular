@@ -5,5 +5,6 @@ import jakarta.persistence.Entity;
 //888
 @Entity
 public class Entidad {
-
+	String code;
+	String code2;
 }
